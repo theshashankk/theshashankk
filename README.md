@@ -17,6 +17,6 @@
 
 ### About me.
 
-> State - Jharkhand
-> Class - 9
+__State__ - Jharkhand
+__Class__ - 9
 
