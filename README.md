@@ -7,7 +7,7 @@
 ### so, Currently I'm working on project {ZYPHER} A closed source.
 ### and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/Alberthere_xD)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="shashankxd.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### My github stats.
 ![NOICE](https://github-readme-stats.vercel.app/api?username=Theshashankk&show_icons=true&theme=midnight-purple)
