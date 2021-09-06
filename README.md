@@ -19,3 +19,17 @@
 
 <font color="blue"> Name: </font>
 <span style="color: orange"> Shashank Sharma</span>
+
+<font color="red"> Class: </font>
+<span style="color: green"> 9th </span>
+
+<font color="red"> Age: </font>
+<span style="color: green"> 14 </span>
+
+<font color="red"> Birthday: </font>
+<span style="color: green"> 23 November 2006 </span>
+
+<font color="red"> Device i use: </font>
+<span style="color: green"> Phone - `VIVO Y20` | laptop - `ACER-aspire E 15` </span>
+
+<a href="shashankxd.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
