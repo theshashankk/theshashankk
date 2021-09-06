@@ -17,7 +17,5 @@
 
 ### About me.
 
-__State__ - Jharkhand 
-
-__Class__ - 9
-
+<font color="blue"> Name: </font>
+<span style="color: orange"> Shashank Sharma</span>
