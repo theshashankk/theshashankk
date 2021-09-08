@@ -40,7 +40,7 @@ __and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/
 ![NOICE](https://github-readme-stats.vercel.app/api?username=Theshashankk&show_icons=true&theme=midnight-purple)
 
 # Language I used 🤟.
-![smex](https://github-readme-stats.vercel.app/api/top-langs/?username=Theshashankk&theme=midnight-purple)
+![smex](https://github-readme-stats.vercel.app/api/top-langs/?username=Theshashankk&theme=midnight-black)
 
 
 <a href="theshashank.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
