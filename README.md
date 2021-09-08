@@ -20,26 +20,26 @@
 
 # 🙂
 
-###### so, Currently I'm working on project {ZYPHER} A closed source.
-###### and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/Alberthere_xD)
+__so, Currently I'm working on project {ZYPHER} A closed source.__
+__and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/Alberthere_xD)__
 
-# Languages i used.
+# Languages i used 👨‍💻.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 
-# Os, Tools.
+# Os, Tools 🛠️.
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-<a href="shashankxd.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="theshashank.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-# My github stats.
+# My github stats 📊.
 ![NOICE](https://github-readme-stats.vercel.app/api?username=Theshashankk&show_icons=true&theme=midnight-purple)
 
-# Language I used.
+# Language I used 🤟.
 ![smex](https://github-readme-stats.vercel.app/api/top-langs/?username=Theshashankk&theme=midnight-purple)
 
 
-<a href="shashankxd.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="theshashank.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
