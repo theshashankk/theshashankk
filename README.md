@@ -38,14 +38,11 @@ __and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/
 
 <p>
 <details>
-    <summary>&#127942 <b>GitHub Stats 📊</b></summary><br/>
+    <summary>&#127942 <b>GitHub Stats & Language i have used.</b></summary><br/>
   
 ![NOICE](https://github-readme-stats.vercel.app/api?username=Theshashankk&show_icons=true&theme=midnight-purple)
 </p>
     
-<details>
-    <summary>&#127942 <b>Language i have used 💨</b></summary><br/>
-  
 ![smex](https://github-readme-stats.vercel.app/api/top-langs/?username=Theshashankk&theme=midnight-black)
 
 
