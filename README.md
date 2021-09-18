@@ -36,11 +36,13 @@ __and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/
 
 <a href="theshashank.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<p>
 <details>
     <summary>&#127942 <b>GitHub Stats 📊</b></summary><br/>
   
 ![NOICE](https://github-readme-stats.vercel.app/api?username=Theshashankk&show_icons=true&theme=midnight-purple)
-
+</p>
+    
 <details>
     <summary>&#127942 <b>Language i have used 💨</b></summary><br/>
   
