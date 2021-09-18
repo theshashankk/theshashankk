@@ -18,13 +18,13 @@
 <font color="red"> Device i use: </font>
 <span style="color: green"> Phone - `VIVO Y20` | laptop - `ACER-aspire E 15` </span>
 
-# 🙂
+## stuffs.
 
 __so, Currently I'm working on project {ZYPHER} A closed source.__
 
 __and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/Alberthere_xD)__
 
-# Languages i used 👨‍💻.
+## Languages i used 👨‍💻.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 
@@ -36,7 +36,9 @@ __and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/
 
 <a href="theshashank.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-# My github stats 📊.
+<details>
+    <summary>&#127942 <b>GitHub Stats 📊</b></summary><br/>
+  
 ![NOICE](https://github-readme-stats.vercel.app/api?username=Theshashankk&show_icons=true&theme=midnight-purple)
 
 # Language I used 🤟.
