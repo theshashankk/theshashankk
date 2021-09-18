@@ -41,7 +41,9 @@ __and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/
   
 ![NOICE](https://github-readme-stats.vercel.app/api?username=Theshashankk&show_icons=true&theme=midnight-purple)
 
-# Language I used 🤟.
+<details>
+    <summary>&#127942 <b>Language i have used 💨</b></summary><br/>
+  
 ![smex](https://github-readme-stats.vercel.app/api/top-langs/?username=Theshashankk&theme=midnight-black)
 
 
