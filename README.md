@@ -36,7 +36,7 @@ __and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/
 
 <a href="theshashank.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><img src="assets/Kk.svg" alt="ok vai" /></p>
+<p align="center"><img src="github-metrics.svg" alt="ok vai" /></p>
 
 
 <h3 align="center">Connect with me:</h3>
