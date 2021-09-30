@@ -1,5 +1,5 @@
 
-<img src="https://telegra.ph/file/277261dd83fc60fb7f41f.jpg" alt="••Shashank••" height="500" width="500" align="center">
+<img src="https://telegra.ph/file/277261dd83fc60fb7f41f.jpg" alt="••Shashank••" align="center">
 
 # info.
 
