@@ -1,5 +1,5 @@
+<a href="https://ibb.co/x661ksC"><img src="https://i.ibb.co/x661ksC/2c5aaf9f229d1146d9ec5371b30d5a32.jpg" alt="••Shashank••" border="0"></a>
 
-<img src="https://telegra.ph/file/277261dd83fc60fb7f41f.jpg" alt="••Shashank••" align="center">
 
 
 <table>
