@@ -1,22 +1,14 @@
 
 <img src="https://telegra.ph/file/277261dd83fc60fb7f41f.jpg" alt="••Shashank••" align="center">
 
-# info.
+Terminal template, mimicking a SSH session.
 
-<font color="blue"> Name: </font>
-<span style="color: orange"> Shashank Sharma</span>
-
-<font color="red"> Class: </font>
-<span style="color: green"> 9th </span>
-
-<font color="red"> Age: </font>
-<span style="color: green"> 14 </span>
-
-<font color="red"> Birthday: </font>
-<span style="color: green"> 23 November 2006 </span>
-
-<font color="red"> Device i use: </font>
-<span style="color: green"> Phone - `VIVO Y20` | laptop - `ACER-aspire E 15` </span>
+<table>
+  <td align="center">
+    <img src="https://github.com/theshashankk/theshashankk/blob/main/assets/terminal.svg">
+    <img width="900" height="1" alt="">
+  </td>
+</table>
 
 ## stuffs.
 
