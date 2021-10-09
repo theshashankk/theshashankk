@@ -1,7 +1,6 @@
 
 <img src="https://telegra.ph/file/277261dd83fc60fb7f41f.jpg" alt="••Shashank••" align="center">
 
-Terminal template, mimicking a SSH session.
 
 <table>
   <td align="center">
