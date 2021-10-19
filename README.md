@@ -12,7 +12,7 @@
 
 ## Currently Working on 🧾.
 
-[![hinata](https://img.shields.io/badge/Zypher%20Music%20Bot-purple?style=for-the-badge&logo=telegram)](t.me/Coffinxsupport)
+[ZYPHER x BOT](https://github.com/Team-Zypher/ZYPHERx)
 
 ## Languages i used 👨‍💻.
 
