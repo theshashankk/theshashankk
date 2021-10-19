@@ -10,11 +10,9 @@
   </td>
 </table>
 
-## stuffs.
+## Currently Working on 🧾.
 
-__so, Currently I'm working on project {ZYPHER} A closed source.__
-
-__and, looking to collab with [keinshin](github.com/keinshin) and [Albert](t.me/Alberthere_xD)__
+[![hinata](https://img.shields.io/badge/Zypher%20Music%20Bot-purple?style=for-the-badge&logo=telegram)](t.me/Coffinxsupport)
 
 ## Languages i used 👨‍💻.
 
