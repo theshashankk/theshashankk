@@ -12,7 +12,7 @@
 
 ## Currently Working on 🧾.
 
-[ZYPHER x BOT](https://github.com/Team-Zypher/ZYPHERx)
+`Zypher X Music` <img src="https://raw.githubusercontent.com/KennedyProject/KEN-UBOT/KEN-UBOT/resources/extras/Kenpurple.gif" width="40px">
 
 ## Languages i used 👨‍💻.
 
