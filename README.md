@@ -12,7 +12,9 @@
 
 ## Currently Working on 🧾.
 
-`Zypher X Music` <img src="https://raw.githubusercontent.com/KennedyProject/KEN-UBOT/KEN-UBOT/resources/extras/Kenpurple.gif" width="40px">
+```python
+Bot = 'Zypher X Music' 
+```
 
 ## Languages i used 👨‍💻.
 
