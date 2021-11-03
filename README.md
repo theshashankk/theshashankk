@@ -12,7 +12,7 @@
 
 ## About me.
 ```python
-class Vinayak():
+class AboutShashank():
     def __init__(self):
         self.name = ['Shashank Sharma']
         self.country = ['India']
