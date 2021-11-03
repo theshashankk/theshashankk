@@ -10,10 +10,34 @@
   </td>
 </table>
 
-## Currently Working on 🧾.
-
+## About me.
 ```python
-Bot = 'Zypher X Music' 
+class Vinayak():
+    def __init__(self):
+        self.name = ['Shashank Sharma']
+        self.country = ['India']
+        self.language = ['Hindi', 'English']
+    def programming_languages(self):
+        return [
+            'Python', 'Bash', 'html'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Docker','Heroku', 'Railway', 'Digital Ocean'
+            'MongoDB'
+        ]
+    def operating_system(self):
+        return [
+            'Linux', 'Windows', 'Android'
+        ]
+    def linux_distros(self):
+        return [
+            'Arch Linux', 'Ubuntu', 'Lubuntu'
+        ]
+    def windows_os(self):
+        return [
+            'Windows 11', 'Windows 10'
+        ]
 ```
 
 ## Languages i used 👨‍💻.
