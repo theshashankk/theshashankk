@@ -44,6 +44,10 @@ class AboutShashank():
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 
+## Stats 🎫
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theshashankk&show_icons=true)
+
 # Os, Tools 🛠️.
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
