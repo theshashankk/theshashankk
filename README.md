@@ -43,7 +43,7 @@ class AboutShashank():
 ## Languages i used 👨‍💻.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![Shell](https://img.shields.io/badge/Shell-3776AB?style=for-the-badge&logo=Shell&logoColor=blue)
+![Shell](https://img.shields.io/badge/Shell-3776AB?style=for-the-badge&logo=Shell&logoColor=yellow)
 
 ## Stats 🎫
 
