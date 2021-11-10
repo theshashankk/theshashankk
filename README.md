@@ -28,21 +28,4 @@
 
 <p align="center"><img src="github-metrics.svg" alt="ok vai" /></p>
 
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://t.me/ix_Shashank"><img src="assets/tg.png" height=40px width=40px alt="tele" /></a>
-<a href="https://mail.google.com/mail/u/?authuser=princeivy43@gmail.com"><img src="assets/mail.png" height=40px width=40px alt="hrhe" /></a>
-</p>
-
-### My Social Media and Personal Website
-<p>
-    <a href="http://www.theshashank.me/" target="blank"><img src="https://img.icons8.com/nolan/55/domain.png" /></a>
-    <a href="https://www.theshashank.me/" target="blank"><img src="https://img.icons8.com/nolan/55/medium-new.png" /></a>
-    <a href="https://t.me/andreobee_xD" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
-    <a href="https://instagram.com/maybe_shashank" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
-    <a href="https://twitter.com/iX_Shashank" target="blank"><img src="https://img.icons8.com/nolan/55/twitter.png" /></a>
-</p>
-
 <a href="theshashank.me"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
