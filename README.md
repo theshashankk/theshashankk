@@ -11,33 +11,17 @@
 </table>
 
 ## About me.
-```python
-class AboutShashank():
-    def __init__(self):
-        self.name = ['Shashank Sharma']
-        self.country = ['India']
-        self.language = ['Hindi', 'English']
-    def programming_languages(self):
-        return [
-            'Python', 'Bash', 'html'
-        ]
-    def developer_tools(self):
-        return [
-            'GitHub', 'Stack Overflow', 'Docker','Heroku', 'Railway', 'Digital Ocean'
-            'MongoDB'
-        ]
-    def operating_system(self):
-        return [
-            'Linux', 'Windows', 'Android'
-        ]
-    def linux_distros(self):
-        return [
-            'Arch Linux', 'Ubuntu', 'Lubuntu'
-        ]
-    def windows_os(self):
-        return [
-            'Windows 11', 'Windows 10'
-        ]
+
+```yml
+{
+  'name': 'Shashank Sharma',
+  'country': 'India',
+  'language': 'Hindi', 'English",
+  'programming_languages': 'Python', 'Bash', 'Html',
+  'developer_tools': 'Github', 'bootstrap', 'Stack Overflow', 'Heroku', 'Digital ocean', 'railway', 'Mongodb',
+  'operating_system': 'Windows', 'Android',
+  'windows os': 'Windows 10', 'Windows 11'
+}
 ```
 
 ## Languages i used 👨‍💻.
