@@ -12,7 +12,7 @@
 
 ## About me.
 
-```yml
+```json
 {
   'name': 'Shashank Sharma',
   'country': 'India',
