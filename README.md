@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Merry%20Christmas&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Happy%20New%20Year&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hey 👀, I'm Shashank 🇮🇳</h1>
