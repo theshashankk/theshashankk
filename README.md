@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   
 </p>
-
-[![Website](https://raw.githubusercontent.com/theshashankk/theshashankk/master/soc/Hn.svg)](https://theshashank.me/)
-<img align='right' src="jk.png" width="500">
+## Meme Here 😸
+- Keep refreshing the page for new memes.
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <br>
  
