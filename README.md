@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Happy%20New%20Year%20💸⛄🎆&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Welcome%20To%20My%20Github%20Profile💸&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hey 👀, I'm Shashank 🇮🇳</h1>
@@ -6,15 +6,13 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/Exmpirer" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img scr="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=instagram&logoColor=white" href="https:instagram.com/maybe_shashank" />
   
 </p>
-## Meme Here 😸
-- Keep refreshing the page for new memes.
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <br>
  
@@ -27,12 +25,12 @@
  <br>
 
  <p align=left>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/Exmpirer" />
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>
 
 
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href"mailto:shashannxd@gmail.com" />
 
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
