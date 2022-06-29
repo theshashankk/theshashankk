@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Welcome%20To%20My%20Github%20Profile💸&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&center=true&lines=Hi+There;I'm+Shashank;I'm+just+noob)](https://git.io/typing-svg)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hey 👀, I'm Shashank 🇮🇳</h1>
