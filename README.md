@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&lines=Info%3A+I'm+in-active+now+because+I+have+to+concentrate+on+my+studies;See+you+guys+soon+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&lines=Info%3A+I'm+currently+in-active;See+you+soon+%E2%9C%A8)](https://git.io/typing-svg)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hey 👀, I'm Shashank 🇮🇳</h1>
