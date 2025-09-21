@@ -33,7 +33,6 @@
 
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
- <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
 
 </p>
@@ -58,7 +57,7 @@
 
 <br>
 
-<p align=center><b>Made With ❤️ Shashank © Copyright 2021-2022</b></p>
+<p align=center><b>Made With ❤️ Shashank © Copyright 2025</b></p>
 
 
 
