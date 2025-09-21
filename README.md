@@ -6,11 +6,10 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/Exmpirer" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img scr="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=instagram&logoColor=white" href="https:instagram.com/maybe_shashank" />
+<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/maybeshashank" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" href="https://www.python.org/" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" href="https://www.github.com/theshashankk/" />
+  <img scr="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=instagram&logoColor=white" href="https:instagram.com/shashankbhardwaj_21" />
   
 </p>
 
