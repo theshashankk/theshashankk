@@ -2,7 +2,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hey 👀, I'm Shashank 🇮🇳</h1>
-<h3 align="center">"A professional future developer from India"</h3>
+<h3 align="center">The rare management student who actually pushes code.</h3>
 <br>
 
 <p align="center">
