@@ -15,7 +15,24 @@
 
 <br>
  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=theshashankk&bg_color=30,000000,434343&title_color=fff&text_color=fff"/>
+## 👨🏻‍💻 WakaTime Stats
+
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 769 hrs 10 mins
+
+Python               286 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.19 %
+TypeScript           230 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.92 %
+Dart                 54 hrs 24 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.07 %
+Kotlin               40 hrs 55 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.32 %
+JavaScript           37 hrs 46 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.91 %
+```
+
+<!--END_SECTION:waka-->
+## 📋 Badges
+[![An image of @theshashankk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshashankk)](https://holopin.io/theshashankk)
+
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshashankk&layout=compact&bg_color=30,000000,434343&title_color=fff&text_color=fff"/>
 </div>
 <br>
