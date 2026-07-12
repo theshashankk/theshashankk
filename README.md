@@ -20,7 +20,6 @@
 npx theshashankk
 ```
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshashankk&layout=compact&bg_color=30,000000,434343&title_color=fff&text_color=fff"/>
 </div>
 <br>
 <hr>
