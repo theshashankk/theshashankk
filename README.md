@@ -15,19 +15,10 @@
 
 <br>
  
-## 👨🏻‍💻 WakaTime Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 469 hrs 10 mins
-
-Python               286 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.19 %
-Html                 54 hrs 24 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.07 %
-JavaScript           37 hrs 46 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.91 %
+## Try in [Terminal](https://www.npmjs.com/package/theshashank)
+```bash
+npx theshashankk
 ```
-
-<!--END_SECTION:waka-->
 
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshashankk&layout=compact&bg_color=30,000000,434343&title_color=fff&text_color=fff"/>
 </div>
