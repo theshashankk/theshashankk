@@ -17,7 +17,7 @@
  
 ## Try in [Terminal](https://www.npmjs.com/package/theshashank)
 ```bash
-npx theshashankk
+npx theshashank
 ```
 
 </div>
