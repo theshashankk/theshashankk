@@ -13,7 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
+      # Step 1: Check out repository code so git history exists
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate the SVGs into assets/ folder
       - name: Generate the snake game from GitHub contribution grid
         uses: Platane/snk@v3
         with:
@@ -22,10 +28,10 @@ jobs:
             assets/snake.svg
             assets/snake-dark.svg?palette=github-dark
 
-      - name: Push the generated files to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      # Step 3: Commit and push changes directly back to main branch
+      - name: Push generated files to main branch
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          target_branch: output
-          build_dir: assets
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: update snake contribution graph [skip ci]"
+          branch: main
+          file_pattern: 'assets/snake*.svg'
