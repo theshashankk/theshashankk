@@ -271,6 +271,7 @@
   .field.language.details &gt; *, .field.language.details small &gt; * {
     flex: 1 1 0;
   }
+  
   .field.language.details small &gt; *:not(:last-child) {
     margin-right: 6px;
   }
