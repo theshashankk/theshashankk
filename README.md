@@ -69,11 +69,9 @@ npx theshashank
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theshashankk/theshashankk/output/assets/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/theshashankk/theshashankk/output/assets/snake.svg" />
+  <img alt="contribution snake" src="assets/snake.svg" />
 </picture>
 </div>
-
-This one lives in `.github/workflows/snake.yml` (included alongside this README) — it's a scheduled GitHub Action that turns your contribution graph into a snake animation and publishes it to an `output` branch. Enable Actions on the repo once, and it keeps itself updated daily.
 
 </details>
 
