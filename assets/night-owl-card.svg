@@ -1,0 +1,86 @@
+<svg viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#150f2a"/>
+      <stop offset="100%" stop-color="#0b0f1c"/>
+    </linearGradient>
+    <linearGradient id="morningBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="dayBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/><stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="eveningBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fb7185"/><stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="nightBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8"/><stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <style>
+      .lbl   { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 16px; fill: #d1d5db; font-weight: 600; }
+      .sub   { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #6b7280; }
+      .pct   { font-family: Consolas, monospace; font-size: 15px; fill: #e5e7eb; font-weight: 700; }
+      .cnt   { font-family: Consolas, monospace; font-size: 12px; fill: #6b7280; }
+      .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 22px; fill: #f3f4f6; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="338" rx="18" fill="url(#cardBg)" stroke="#242438" stroke-width="1.5"/>
+
+  <!-- twinkling stars -->
+  <g fill="#a78bfa">
+    <circle cx="820" cy="35" r="1.6"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="55" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="795" cy="60" r="1"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="865" cy="30" r="1.4"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+  <path d="M840,42 a14,14 0 1 0 0.1,0 a11,11 0 1 1 -0.1,0" fill="#e9d5ff" opacity="0.9"/>
+
+  <text x="34" y="48" class="title">Coding Clock</text>
+  <text x="34" y="70" class="sub">when the commits actually happen</text>
+
+  <!-- rows: icon cx, label, track, fill (scaled to max 30.78%), pct, count -->
+  <!-- Morning -->
+  <g>
+    <circle cx="48" cy="120" r="13" fill="url(#morningBar)"/>
+    <text x="80" y="106" class="lbl">Morning</text>
+    <text x="80" y="140" class="cnt">67 commits</text>
+    <rect x="230" y="110" width="560" height="18" rx="9" fill="#1f2430"/>
+    <rect x="230" y="110" width="238" height="18" rx="9" fill="url(#morningBar)"/>
+    <text x="805" y="124" class="pct" text-anchor="end">13.14%</text>
+  </g>
+
+  <!-- Daytime -->
+  <g>
+    <circle cx="48" cy="180" r="13" fill="url(#dayBar)"/>
+    <text x="80" y="166" class="lbl">Daytime</text>
+    <text x="80" y="200" class="cnt">132 commits</text>
+    <rect x="230" y="170" width="560" height="18" rx="9" fill="#1f2430"/>
+    <rect x="230" y="170" width="470" height="18" rx="9" fill="url(#dayBar)"/>
+    <text x="805" y="184" class="pct" text-anchor="end">25.88%</text>
+  </g>
+
+  <!-- Evening -->
+  <g>
+    <circle cx="48" cy="240" r="13" fill="url(#eveningBar)"/>
+    <text x="80" y="226" class="lbl">Evening</text>
+    <text x="80" y="260" class="cnt">157 commits</text>
+    <rect x="230" y="230" width="560" height="18" rx="9" fill="#1f2430"/>
+    <rect x="230" y="230" width="559" height="18" rx="9" fill="url(#eveningBar)"/>
+    <text x="805" y="244" class="pct" text-anchor="end">30.78%</text>
+  </g>
+
+  <!-- Night (peak, glowing) -->
+  <g>
+    <circle cx="48" cy="300" r="13" fill="url(#nightBar)"/>
+    <circle cx="48" cy="300" r="17" fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.5">
+      <animate attributeName="r" values="13;20;13" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="80" y="286" class="lbl">Night 🦉</text>
+    <text x="80" y="320" class="cnt">154 commits</text>
+    <rect x="230" y="290" width="560" height="18" rx="9" fill="#1f2430"/>
+    <rect x="230" y="290" width="548" height="18" rx="9" fill="url(#nightBar)"/>
+    <text x="805" y="304" class="pct" text-anchor="end">30.2%</text>
+  </g>
+</svg>

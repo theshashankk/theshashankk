@@ -1,68 +1,113 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&lines=Info%3A+I'm+currently+in-active;See+you+soon+%E2%9C%A8)](https://git.io/typing-svg)
+<div align="center">
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hey 👀, I'm Shashank 🇮🇳</h1>
-<h3 align="center">The rare management student who actually pushes code.</h3>
-<br>
+<img src="assets/header-banner.svg" width="100%" alt="Shashank — header banner" />
 
-<p align="center">
-<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/maybeshashank" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" href="https://www.python.org/" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" href="https://www.github.com/theshashankk/" />
-  <img scr="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=instagram&logoColor=white" href="https:instagram.com/shashankbhardwaj_21" />
-  
-</p>
+<br/>
 
-<br>
- 
-## Try in [Terminal](https://www.npmjs.com/package/theshashank)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Currently+in-active+%F0%9F%9A%A7;Probably+debugging+at+2+AM;See+you+soon+%E2%9C%A8)](https://git.io/typing-svg)
+
+<h1>Hey, I'm Shashank 🇮🇳</h1>
+<h3>The rare management student who actually pushes code.</h3>
+
+<img src="assets/divider.svg" width="60%" alt="" />
+
+</div>
+
+### 👀 Quick facts
+
+|  |  |
+|---|---|
+| 🎓 **Studying** | Management — with a side quest in software |
+| 💻 **Building with** | Python, SQL, and a lot of automation scripts |
+| 🌙 **Working hours** | Mostly after midnight, ask my sleep schedule |
+| 🎯 **Currently** | In-active on socials, active in the terminal |
+| 📫 **Reach me** | [Telegram](https://t.me/maybeshashank) · [GitHub](https://github.com/theshashankk/) |
+
+<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash,mysql,figma&theme=dark" alt="tech stack icons" />
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
+
+### ⚡ Try it in your Terminal
+
 ```bash
 npx theshashank
 ```
 
+<p align="center"><sub>a little CLI experiment — <a href="https://www.npmjs.com/package/theshashank">view on npm</a></sub></p>
+
+<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=theshashankk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshashankk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=theshashankk&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" alt="GitHub streak stats" width="65%" />
+
 </div>
+
+<details>
+<summary>🏆 Trophy case</summary>
 <br>
-<hr>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=theshashankk&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="trophies" />
+</div>
+</details>
 
- <br>
+<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
- <p align=left>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="https://t.me/Exmpirer" />
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
- <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/>
+### 🦉 I'm a Night Owl
 
+<div align="center">
+<img src="assets/night-owl-card.svg" width="85%" alt="commit activity by time of day" />
+</div>
 
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:shashannxd@gmail.com" />
+<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+### 🐍 Contribution Snake
 
-<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
+<details>
+<summary>Tap to see how the graph looks / how to enable it</summary>
 
-</p>
-<hr>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theshashankk/theshashankk/output/assets/snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/theshashankk/theshashankk/output/assets/snake.svg" />
+</picture>
+</div>
 
-<img align='right' src="wlt.svg" width="550">
-<img align='right' src="ss.svg" width="550">
+This one lives in `.github/workflows/snake.yml` (included alongside this README) — it's a scheduled GitHub Action that turns your contribution graph into a snake animation and publishes it to an `output` branch. Enable Actions on the repo once, and it keeps itself updated daily.
 
- <hr>
- 
-## **I'm a Night 🦉** 
-```text
-🌞 Morning    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-🌆 Daytime    132 commits    ██████░░░░░░░░░░░░░░░░░░░   25.88% 
-🌃 Evening    157 commits    ███████░░░░░░░░░░░░░░░░░░   30.78% 
-🌙 Night      154 commits    ███████░░░░░░░░░░░░░░░░░░   30.2%
-```
-<hr>
+</details>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
+### 🔗 Connect
 
-<br>
+<div align="center">
 
-<p align=center><b>Made With ❤️ Shashank © Copyright 2025</b></p>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maybeshashank) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theshashankk/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shashankbhardwaj_21) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashannxd@gmail.com) |
 
+</div>
 
+<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Thanks%20For%20Viewing&fontSize=45&animation=twinkling&fontAlignY=70&descAlignY=45&descAlign=62)
+<div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=theshashankk&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+
+<p><b>Made with ❤️ by Shashank © 2025</b></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:302b63,100:22d3ee&height=160&section=footer&text=Thanks%20For%20Viewing&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%" alt="footer wave" />
+
+</div>

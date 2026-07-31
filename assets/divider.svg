@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1200 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="85%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,15 Q300,2 600,15 T1200,15" fill="none" stroke="url(#divGrad)" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="600" cy="15" r="4.5" fill="#22d3ee"/>
+  <circle cx="600" cy="15" r="9" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.5">
+    <animate attributeName="r" values="6;13;6" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
