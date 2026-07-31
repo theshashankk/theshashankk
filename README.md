@@ -46,10 +46,8 @@ npx theshashank
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="[https://github-readme-stats.vercel.app/api?username=theshashankk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9](https://ghstats.dev/api/card?username=theshashankk)" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshashankk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=theshashankk&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" alt="GitHub streak stats" width="65%" />
+<img src="https://ghstats.dev/api/card?username=theshashankk" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/langs?username=theshashankk" alt="Top Languages" />
 
 </div>
 
@@ -57,17 +55,9 @@ npx theshashank
 <summary>🏆 Trophy case</summary>
 <br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=theshashankk&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=theshashankk&theme=flat&row=1&column=6" alt="theshashankk trophies"/>
 </div>
 </details>
-
-<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
-
-### 🦉 I'm a Night Owl
-
-<div align="center">
-<img src="assets/night-owl-card.svg" width="85%" alt="commit activity by time of day" />
-</div>
 
 <div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
