@@ -9,7 +9,6 @@
 <h1>Hey, I'm Shashank 🇮🇳</h1>
 <h3>The rare management student who actually pushes code.</h3>
 
-<img src="assets/divider.svg" width="60%" alt="" />
 
 </div>
 
@@ -23,7 +22,6 @@
 | 🎯 **Currently** | In-active on socials, active in the terminal |
 | 📫 **Reach me** | [Telegram](https://t.me/maybeshashank) · [GitHub](https://github.com/theshashankk/) |
 
-<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
 ### 🛠️ Tech Stack
 
@@ -31,7 +29,6 @@
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,bash,mysql,figma&theme=dark" alt="tech stack icons" />
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
 ### ⚡ Try it in your Terminal
 
@@ -41,7 +38,6 @@ npx theshashank
 
 <p align="center"><sub>a little CLI experiment — <a href="https://www.npmjs.com/package/theshashank">view on npm</a></sub></p>
 
-<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
 ### 📊 GitHub Stats
 
@@ -59,7 +55,6 @@ npx theshashank
 </div>
 </details>
 
-<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
 ### 🐍 Contribution Snake
 
@@ -75,7 +70,6 @@ npx theshashank
 
 </details>
 
-<div align="center"><img src="assets/divider.svg" width="60%" alt="" /></div>
 
 ### 🔗 Connect
 
