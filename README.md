@@ -59,7 +59,6 @@ npx theshashank
 ### 🐍 Contribution Snake
 
 <details>
-<summary>Tap to see how the graph looks / how to enable it</summary>
 
 <div align="center">
 <picture>
