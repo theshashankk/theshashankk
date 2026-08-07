@@ -66,9 +66,15 @@ npx theshashank
 
 ### 🦉 Coding Clock
 
-<div align="center">
-<img src="assets/night-owl-card.svg" width="85%" alt="commit activity by time of day" />
-</div>
+<!--START_SECTION:owl-->
+```text
+🌞 Morning     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14%
+🌆 Daytime    132 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88%
+🌃 Evening    157 commits     ████████░░░░░░░░░░░░░░░░░   30.78%
+🌙 Night      154 commits     ████████░░░░░░░░░░░░░░░░░   30.20%
+```
+<!--END_SECTION:owl-->
+<p><sub>Auto-updated daily by <code>.github/workflows/night-owl.yml</code> from your real commit history — enable Actions on this repo once and the numbers above start updating themselves.</sub></p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
