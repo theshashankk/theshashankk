@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Currently+in-active+%F0%9F%9A%A7;Probably+debugging+at+2+AM;See+you+soon+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Currently+in-active+%F0%9F%9A%A7;Probably+debugging+at+2+AM;See+you+soon)](https://git.io/typing-svg)
 
 <h1>Hey, I'm Shashank 🇮🇳</h1>
 <h3>The rare management student who actually pushes code.</h3>
