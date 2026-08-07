@@ -61,7 +61,6 @@ npx theshashank
   <img alt="contribution snake" src="assets/snake.svg" />
 </picture>
 </div>
-<p align="center"><sub>Powered by the workflow in <code>.github/workflows/snake.yml</code> — enable Actions on this repo once and it keeps itself updated.</sub></p>
 </details>
 
 ### 🦉 Coding Clock
@@ -74,7 +73,6 @@ npx theshashank
 🌙 Night      154 commits     ████████░░░░░░░░░░░░░░░░░   30.20%
 ```
 <!--END_SECTION:owl-->
-<p><sub>Auto-updated daily by <code>.github/workflows/night-owl.yml</code> from your real commit history — enable Actions on this repo once and the numbers above start updating themselves.</sub></p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
